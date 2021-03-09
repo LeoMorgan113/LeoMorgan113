@@ -2,8 +2,11 @@
 ## I'm a *Junior Front-end Developer* from Kiev.
 ### My works from [portfolio](https://github.com/LeoMorgan113/LeoMorgan113.github.io).
 ### Languages and Technologies:
-![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-ffffff?style=for-the-badge&logo=reactjs)
 
+![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css)
 <!--
 **LeoMorgan113/LeoMorgan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
