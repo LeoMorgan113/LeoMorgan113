@@ -6,7 +6,7 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-ffffff?style=for-the-badge&logo=reactjs)
 
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css3)
 <!--
 **LeoMorgan113/LeoMorgan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
