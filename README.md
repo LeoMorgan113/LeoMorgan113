@@ -2,11 +2,16 @@
 ## I'm a *Junior Front-end Developer* from Kiev.
 ### My works from [portfolio](https://github.com/LeoMorgan113/LeoMorgan113.github.io).
 ### Languages and Technologies:
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
-![ReactJS](https://img.shields.io/badge/-ReactJS-ffffff?style=for-the-badge&logo=reactjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=for-the-badge&logo=javascript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-060606?style=for-the-badge&logo=react)
 
-![HTML](https://img.shields.io/badge/-HTML-fff333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-060606?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-060606?style=for-the-badge&logo=css3)
+
+### :email: Email me: mandragora1783@gmail.com
+### :calling: Telegram: @LeoMorgan
+
+> What is done, done for the best.
 <!--
 **LeoMorgan113/LeoMorgan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
