@@ -1,6 +1,6 @@
 # 👋 Hello everyone! My name is **Valeri Koriavikova**!
 ## I'm a *Junior Front-end Developer* from Kiev.
-### My works from [portfolio](https://github.com/LeoMorgan113/LeoMorgan113.github.io).
+### My [portfolio](https://github.com/LeoMorgan113/LeoMorgan113.github.io).
 ### Languages and Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-060606?style=for-the-badge&logo=react)
