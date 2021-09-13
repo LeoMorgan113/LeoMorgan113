@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-060606?style=for-the-badge&logo=react)
 
-![HTML](https://img.shields.io/badge/-HTML-060606?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-060606?style=for-the-badge&logo=css3)
 
 ### :email: Email me: mandragora1783@gmail.com
