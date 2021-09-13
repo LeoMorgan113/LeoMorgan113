@@ -1,4 +1,4 @@
-# 👋 Hello everyone! My name is **Valeri Koriavikova**!
+# 👋 Hello everyone! My name is **Valeriia Koriavikova**!
 ## I'm a *Junior Front-end Developer* from Kiev.
 ### My [portfolio](https://github.com/LeoMorgan113/LeoMorgan113.github.io).
 ### Languages and Technologies:
