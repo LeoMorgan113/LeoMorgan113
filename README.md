@@ -3,8 +3,6 @@
 ### My [portfolio](https://github.com/LeoMorgan113/LeoMorgan113.github.io).
 ### Languages and Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?style=for-the-badge&logo=javascript)
-![ReactJS](https://img.shields.io/badge/-ReactJS-FFF?style=for-the-badge&logo=react)
-
 ![HTML](https://img.shields.io/badge/-HTML-FFF?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-FFF?style=for-the-badge&logo=css3)
 
