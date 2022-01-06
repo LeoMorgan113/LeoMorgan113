@@ -12,9 +12,9 @@
 ![Git](https://img.shields.io/badge/-GIT-fff?style=for-the-badge&logo=git)
 
 
-:email: Email me: mandragora1783@gmail.com
+:email: Email:(mandragora1783@gmail.com)
 
-:calling: Telegram: t.me/LeoMorgan
+:calling: Telegram:(https://t.me/LeoMorgan)
 
 
 
