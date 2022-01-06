@@ -1,13 +1,19 @@
 ## 👋 Hello everyone! My name is **Valeriia Koriavikova**!
-### I'm a *Junior Front-end Developer* from Kiev.
-#### My [portfolio](https://github.com/LeoMorgan113/LeoMorgan113.github.io).
-#### Languages and Technologies:
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-FFF?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-FFF?style=for-the-badge&logo=css3)
+##### I'm a *Junior Front-end Developer* from Kiev.
 
-#### :email: Email me: mandragora1783@gmail.com
-#### :calling: Telegram: t.me/@LeoMorgan
+#### Stack:
+![Angular](https://img.shields.io/badge/-Angular-ff0000?style=for-the-badge&logo=angular)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-fff?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1f1fff?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-1f1fff?style=for-the-badge&logo=sass)
+![RESTAPI](https://img.shields.io/badge/-REST_API-fff?style=for-the-badge&logo=restapi)
+![Git](https://img.shields.io/badge/-GIT-fff?style=for-the-badge&logo=git)
+
+
+:email: Email me: mandragora1783@gmail.com
+:calling: Telegram: t.me/@LeoMorgan
 
 
 > ⚡ Favourite quote: What is done, done for the best.
