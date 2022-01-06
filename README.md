@@ -2,12 +2,12 @@
 ##### I'm a *Junior Front-end Developer* from Kiev.
 
 #### Stack:
-![Angular](https://img.shields.io/badge/-Angular-ff0000?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-fff?style=for-the-badge&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-fff?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1f1fff?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-1f1fff?style=for-the-badge&logo=sass)
+![CSS](https://img.shields.io/badge/-CSS-fff?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-fff?style=for-the-badge&logo=sass)
 ![RESTAPI](https://img.shields.io/badge/-REST_API-fff?style=for-the-badge&logo=restapi)
 ![Git](https://img.shields.io/badge/-GIT-fff?style=for-the-badge&logo=git)
 
