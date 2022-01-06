@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-FFF?style=for-the-badge&logo=css3)
 
 ### :email: Email me: mandragora1783@gmail.com
-### :calling: Telegram: @LeoMorgan
+### :calling: Telegram: t.me/@LeoMorgan
 
 
 > What is done, done for the best.
