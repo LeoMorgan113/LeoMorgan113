@@ -1,5 +1,5 @@
 ## 👋 Hello everyone! My name is **Valeriia Koriavikova**!
-##### I'm a *Junior Front-end Developer* from Kiev.
+##### I'm a *Junior Frontend Developer* from Kiev.
 
 #### Stack:
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=for-the-badge&logo=angular)
