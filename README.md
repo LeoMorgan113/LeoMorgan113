@@ -20,4 +20,4 @@
 
 > ⚡ Favourite quote: What is done, done for the best.
 
-### [Support Ukraine](https://war.ukraine.ua/support-ukraine/) :ua: 
+### [Support Ukraine](https://war.ukraine.ua/support-ukraine/) :ukraine:
