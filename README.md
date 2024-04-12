@@ -1,5 +1,5 @@
 ## 👋 Hello everyone! My name is **Valeriia Koriavikova**!
-##### I'm a *Frontend Developer* from Kiev.
+##### I'm a *Frontend Developer* from Kyiv, Ukraine.
 
 #### Technology stack:
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=for-the-badge&logo=angular)
@@ -19,3 +19,5 @@
 
 
 > ⚡ Favourite quote: What is done, done for the best.
+
+### [Support Ukraine](https://war.ukraine.ua/support-ukraine/) :flag-ua: 
